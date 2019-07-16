@@ -5,3 +5,4 @@
 - java 中string 和null相加,      
        String nstr;  String str1 = "hello" + nstr; String str2 = "world" + null;
   结果会变成 hellonull, worldnull
+- 重载overload（重写不同返回值或参数列表的方法）, 重写overright(重新实现方法的内容)
